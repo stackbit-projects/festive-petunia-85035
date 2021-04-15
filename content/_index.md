@@ -7,7 +7,7 @@ sections:
     content: |
       Découvrez en avant première le site artistique de l'artiste du web
     actions:
-      - label: Try Free
+      - label: Découvrir
         url: /pricing
         style: primary
     image: images/classic/hero.png
