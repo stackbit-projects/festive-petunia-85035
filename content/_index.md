@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: This is le site de Thomas
-    subtitle: Optional hero section subtitle
+    subtitle: Artiste du web
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
       ligula, cursus id molestie vel.
