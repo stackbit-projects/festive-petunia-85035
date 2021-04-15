@@ -4,9 +4,8 @@ sections:
   - type: hero_section
     title: This is le site de Thomas
     subtitle: Artiste du web
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel.
+    content: |
+      Découvrez en avant première le site artistique de l'artiste du web
     actions:
       - label: Try Free
         url: /pricing
